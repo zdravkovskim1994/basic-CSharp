@@ -1,0 +1,6 @@
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\obj\Debug\task 5.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\bin\Debug\task 5.exe.config
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\bin\Debug\task 5.exe
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\bin\Debug\task 5.pdb
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\obj\Debug\task 5.exe
+C:\Users\zdrav\source\repos\Lesson 2 tasks\task 5\obj\Debug\task 5.pdb

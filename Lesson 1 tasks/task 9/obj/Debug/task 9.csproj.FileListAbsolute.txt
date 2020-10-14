@@ -1,0 +1,6 @@
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\bin\Debug\task 9.exe.config
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\bin\Debug\task 9.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\bin\Debug\task 9.pdb
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\obj\Debug\task 9.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\obj\Debug\task 9.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 9\obj\Debug\task 9.pdb

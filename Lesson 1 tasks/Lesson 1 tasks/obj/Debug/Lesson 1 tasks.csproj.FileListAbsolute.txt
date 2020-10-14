@@ -1,0 +1,5 @@
+C:\Users\zdrav\source\repos\Lesson 1 tasks\Lesson 1 tasks\bin\Debug\Lesson 1 tasks.exe.config
+C:\Users\zdrav\source\repos\Lesson 1 tasks\Lesson 1 tasks\bin\Debug\Lesson 1 tasks.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\Lesson 1 tasks\bin\Debug\Lesson 1 tasks.pdb
+C:\Users\zdrav\source\repos\Lesson 1 tasks\Lesson 1 tasks\obj\Debug\Lesson 1 tasks.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\Lesson 1 tasks\obj\Debug\Lesson 1 tasks.pdb

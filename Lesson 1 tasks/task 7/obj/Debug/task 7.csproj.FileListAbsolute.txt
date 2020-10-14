@@ -1,0 +1,6 @@
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\obj\Debug\task 7.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\bin\Debug\task 7.exe.config
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\bin\Debug\task 7.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\bin\Debug\task 7.pdb
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\obj\Debug\task 7.exe
+C:\Users\zdrav\source\repos\Lesson 1 tasks\task 7\obj\Debug\task 7.pdb
